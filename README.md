@@ -13,6 +13,8 @@ To run on your machine:
     uv sync
     ```
 
+    and activate the virtual environment (depends on your OS):
+
 3. Start the backend server:
 
     ```bash
@@ -23,7 +25,7 @@ To run on your machine:
 
     ```bash
     # In a new terminal window that is in project root
-    cd ./frontend
+    cd ./frontend-next
     ```
 
 5. Install dependencies for frontend with npm:
