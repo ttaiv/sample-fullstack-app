@@ -6,7 +6,7 @@ To run on your machine:
 
 1. Clone this repository and navigate to project root.
 
-2. Install dependencies for backend with uv:
+2. Install dependencies for backend with [uv](https://github.com/astral-sh/uv):
 
     ```bash
     cd backend
